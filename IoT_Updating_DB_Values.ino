@@ -12,7 +12,7 @@ ID 49 - longitude
 
 
 Importnat Note:
-Please use HTTP links for updating not HTTPS. IF you are using HTTPS please include the secure library for HTTPS for NodeMCU.
+Please use HTTP links for updating not HTTPS. IF you are using HTTPS please include HTTPS library used in NodeMCU.
 We are using HTTP links for updating.
 *********************************************************************************************************************************/
 
